@@ -1,0 +1,31 @@
+com/krish/kkmanc/cgpacalculator/NewsAndEvents.java
+ com.krish.kkmanc.cgpacalculator.NewsAndEvents
+com/krish/kkmanc/cgpacalculator/TargetCgpaActivity.java
+ com.krish.kkmanc.cgpacalculator.TargetCgpaActivity
+ com.krish.kkmanc.cgpacalculator.TargetCgpaActivity$1
+com/krish/kkmanc/cgpacalculator/TargetActivity.java
+ com.krish.kkmanc.cgpacalculator.TargetActivity
+com/krish/kkmanc/cgpacalculator/NewsFragment.java
+ com.krish.kkmanc.cgpacalculator.NewsFragment
+ com.krish.kkmanc.cgpacalculator.NewsFragment$Newses
+com/krish/kkmanc/cgpacalculator/MainActivity.java
+ com.krish.kkmanc.cgpacalculator.MainActivity
+ com.krish.kkmanc.cgpacalculator.MainActivity$1
+ com.krish.kkmanc.cgpacalculator.MainActivity$2
+ com.krish.kkmanc.cgpacalculator.MainActivity$3
+com/krish/kkmanc/cgpacalculator/NewsAddapter.java
+ com.krish.kkmanc.cgpacalculator.NewsAddapter
+ com.krish.kkmanc.cgpacalculator.NewsAddapter$1
+ com.krish.kkmanc.cgpacalculator.NewsAddapter$NewsViewHolder
+com/krish/kkmanc/cgpacalculator/WebpageActivity.java
+ com.krish.kkmanc.cgpacalculator.WebpageActivity
+com/krish/kkmanc/cgpacalculator/CgpaActivity.java
+ com.krish.kkmanc.cgpacalculator.CgpaActivity
+ com.krish.kkmanc.cgpacalculator.CgpaActivity$1
+com/krish/kkmanc/cgpacalculator/BuildConfig.java
+ com.krish.kkmanc.cgpacalculator.BuildConfig
+com/krish/kkmanc/cgpacalculator/GradeConverter.java
+ com.krish.kkmanc.cgpacalculator.GradeConverter
+com/krish/kkmanc/cgpacalculator/GraphActivity.java
+ com.krish.kkmanc.cgpacalculator.GraphActivity
+ com.krish.kkmanc.cgpacalculator.GraphActivity$1
